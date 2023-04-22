@@ -2,6 +2,7 @@
 
 For final dashboard click [here](https://github.com/LJ-Luka/More_PowerBI_Projects/blob/main/Project/Hospitality_dashboard.pbix) to download the .pbix file. </br>
 Metrics and DAX used for the analysis can be found [here](https://github.com/LJ-Luka/More_PowerBI_Projects/blob/main/Project/metrics%20list.xlsx) </br>
+The mockup showing the stakeholder requirements can be viewed [here](https://github.com/LJ-Luka/More_PowerBI_Projects/blob/main/Project/mock%20up%20dashboard_atliq%20grands.png) </br>
 
 ## Project Summary
 
