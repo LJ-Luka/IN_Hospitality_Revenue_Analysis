@@ -1,6 +1,7 @@
 # Hospitality Revenue Insights
 
-For final dashboard click [here](https://github.com/LJ-Luka/More_PowerBI_Projects/blob/main/Project/Hospitality_dashboard.pbix)
+For final dashboard click [here](https://github.com/LJ-Luka/More_PowerBI_Projects/blob/main/Project/Hospitality_dashboard.pbix) to download the .pbix file. </br>
+Metrics and DAX used for the analysis can be found [here](https://github.com/LJ-Luka/More_PowerBI_Projects/blob/main/Project/metrics%20list.xlsx) </br>
 
 ## Project Summary
 
