@@ -1,4 +1,4 @@
-# Hotel Revenue Insights
+# Hospitality Revenue Insights
 
 
 ## Project Summary
