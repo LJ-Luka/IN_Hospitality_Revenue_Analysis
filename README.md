@@ -49,4 +49,6 @@ The stakeholders requested for insights into Revenue, Occupancy Rate, Realisatio
 - The highest average rating in the properties list is 4.3, shared by 10 properties
 - The Atliq City, Bangalore (id 19560) has the highest cancellation rate at 26.5%
 </br>
-There are several more insights to draw from the dashboard with a lot of filtering options
+There are several more insights to draw from the dashboard with a lot of filtering options. Feel free to download the dashboard using the specified link above.
+
+Thank you!
