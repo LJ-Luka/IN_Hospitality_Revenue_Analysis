@@ -23,7 +23,7 @@ The dashboard is interactive. It lets you interact with the data by tracking, mo
 ### Insights from the dashboard
 The stakeholders requested for insights into Revenue, Occupancy Rate, Realisation Rate, Average Daily Rate (ADR), Daily Sellable Room Nights (DSRN), Revenue Per Available Rooms (RevPAR), Daily Booked Room Nights (DBRN) and Daily Utilised Room Nights (DURN) </br>
 
-### Key KPIs
+### KPIs
 - The total revenue generated is 1.69bn
 - The overall occupancy rate is 57.8%
 - The DSRN is 2528.0
@@ -36,7 +36,7 @@ The stakeholders requested for insights into Revenue, Occupancy Rate, Realisatio
 - The total bookings made is 132939
 </br>
 
-### Insights
+### Other insights
 - The highest revenue of 581.93 was generated in May compared to June and July. May also had the highest occupancy rate and RevPAR of 7.4k
 - Weeks 31, 30 and 26, 23 and 21 had the lowest occupancy rates at about 51%. Week 24 had the highest at 62.4%
 - Week 27 had the highest revenue at 139.73, while week 26 had the lowest at 114.1%
