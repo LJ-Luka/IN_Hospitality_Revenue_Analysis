@@ -23,7 +23,7 @@ This analysis transforms three months of booking data (May–July) into an inter
 | Average Rating | 3.6/5 | 4.0+ | ⚠️ Needs attention |
 | Realisation Rate | 70% | 80%+ | ⚠️ Revenue leakage |
 
-**The diagnosis:** Atliq Grands isn't just underperforming—it's bleeding revenue through a 24.8% cancellation rate and 30% unrealised bookings. Fixing these two issues alone could recover ₹200M+ annually.
+**The diagnosis:** Atliq Grands isn't just underperforming. It's bleeding revenue through a 24.8% cancellation rate and 30% unrealised bookings. Fixing these two issues alone could recover ₹200M+ annually.
 
 ---
 
@@ -45,7 +45,7 @@ This analysis transforms three months of booking data (May–July) into an inter
 
 ### 2. The Cancellation Problem Is Costing ₹420M Annually
 
-At 24.8%, nearly **1 in 4 bookings are cancelled**—well above the industry standard of 15-20%. With 132,939 total bookings generating ₹1.69B, that's roughly ₹420M in at-risk revenue per quarter.
+At 24.8%, nearly **1 in 4 bookings are cancelled**. This is well above the industry standard of 15-20%. With 132,939 total bookings generating ₹1.69B, that's roughly ₹420M in at-risk revenue per quarter.
 
 **Recommendation:**
 - Implement tiered cancellation policies (non-refundable rates at 10-15% discount)
@@ -66,7 +66,7 @@ At 24.8%, nearly **1 in 4 bookings are cancelled**—well above the industry sta
 
 **Recommendation:** 
 - Partner with corporate accounts for guaranteed weekday bookings
-- Create weekday-specific packages (extended stays, work-from-hotel)
+- Create specific weekday packages (extended stays, work-from-hotel)
 - Dynamic pricing to incentivize Tuesday-Thursday stays
 
 ---
@@ -89,7 +89,7 @@ This split suggests the business segment has growth potential. Business traveler
 | Atliq Exotica, Mumbai | ₹117M | 7,251 | Highest guest duration |
 | Atliq Palace, Delhi | — | — | Highest occupancy (66.3%) |
 
-**The insight:** Guest duration correlates with revenue. Exotica's success isn't just occupancy—guests stay longer and spend more.
+**The insight:** Guest duration correlates with revenue. Exotica's success isn't just occupancy. Guests stay longer and spend more.
 
 **Recommendation:** Analyze what Exotica does differently. Is it amenities? Location? Service? Replicate across underperforming properties.
 
@@ -102,15 +102,15 @@ Realisation rates are similar across platforms, but **direct offline and Tripste
 **Recommendation:** 
 - Reduce OTA dependency (high commission fees)
 - Invest in direct booking incentives (loyalty points, room upgrades)
-- Audit why direct online underperforms—UX issues? Pricing parity violations?
+- Audit why direct online underperforms (possible causes: UX issues? Pricing parity violations?)
 
 ---
 
 ### 7. Bangalore Has a Cancellation Problem
 
-Atliq City, Bangalore (ID 19560) has the **highest cancellation rate at 26.5%**—2 points above the chain average.
+Atliq City, Bangalore (ID 19560) has the **highest cancellation rate at 26.5%**. 2 points above the chain average.
 
-**Recommendation:** Property-specific investigation needed. Possible causes: overbooking practices, local competition, or service issues reflected in ratings.
+**Recommendation:** Property specific investigation needed. Possible causes: overbooking practices, local competition, or service issues reflected in ratings.
 
 ---
 
@@ -150,9 +150,9 @@ ADR = DIVIDE([Revenue], [Total Bookings])
 
 Atliq Grands' revenue challenges stem from three fixable problems:
 
-1. **Cancellations** (24.8%) — Policy changes could recover ₹100M+
-2. **Weekday underutilization** — Corporate partnerships needed
-3. **Platform mix** — Shift toward direct bookings to improve margins
+1. **Cancellations** (24.8%): Policy changes could recover ₹100M+
+2. **Weekday underutilization**: Corporate partnerships needed
+3. **Platform mix**: Shift toward direct bookings to improve margins
 
 The data is clear. The opportunities are quantified. The question now is execution.
 
